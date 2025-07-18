@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there
+
 
 ## ⏱️ Wakatime Weekly Stats
 
