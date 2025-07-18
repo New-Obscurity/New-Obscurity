@@ -4,6 +4,12 @@
 ## ⏱️ Wakatime Weekly Stats
 
 <!--START_SECTION:waka-->
+
+```txt
+Python   1 hr 39 mins    █████████████████████████   99.59 %
+Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
+```
+
 <!--END_SECTION:waka-->
 
 
