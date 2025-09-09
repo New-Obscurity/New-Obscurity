@@ -6,7 +6,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+CSS          2 hrs           ███████████████████▒░░░░░   77.10 %
+Text         21 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.00 %
+HTML         8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.72 %
+Vim Script   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
 ```
 
 <!--END_SECTION:waka-->
